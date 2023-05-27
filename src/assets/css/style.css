@@ -1,0 +1,13 @@
+img{
+    max-width: 45vh;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+}
+
+.Main{
+    background-image: url(../img/wallpaper.jpg);
+    background-size: 33.333%;
+    background-repeat: repeat space;
+}
